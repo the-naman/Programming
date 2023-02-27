@@ -1,0 +1,1 @@
+This Repository contains all different types of SQL Challenges which I practiced on LeetCode
