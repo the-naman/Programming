@@ -1,1 +1,3 @@
 This directory contains all different types of SQL Challenges which I practiced on LeetCode.
+
+Website Link : https://leetcode.com/study-plan/sql/?progress=x6q6hk7s
